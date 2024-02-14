@@ -2,3 +2,4 @@
 Python program which prints what we give.
 
 Print("Welcome to My World")
+Print("Merging is done")
